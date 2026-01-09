@@ -11,6 +11,10 @@
     "fabricloader": "*",
     "minecraft": "~1.21.1"
   },
+  "icon": "icon.png",
+  "contact": {
+    "homepage": "https://modrinth.com/mod/wathe_chineseplus"
+  },
   "recommends": {
     "wathe": "*"
   }
