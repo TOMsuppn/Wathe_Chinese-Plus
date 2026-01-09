@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "wathe_chinese-plus",
+  "version": "1.1",
+  "name": "Wathe_Chinese-Plus",
+  "description": "优化Wathe的汉化表现，使其更符合中国人的语言习惯",
+  "authors": ["TOMsuppn"],
+  "license": "MIT",
+  "environment": "*",
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "~1.21.1"
+  },
+  "icon": "icon.png",
+  "contact": {
+    "homepage": "https://modrinth.com/mod/wathe_chineseplus"
+  },
+  "recommends": {
+    "wathe": "*"
+  }
+}
